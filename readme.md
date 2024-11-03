@@ -22,3 +22,7 @@
 - [A Philosophy of Software Design, 2nd Edition (John Ousterhout)](https://a.co/d/5J3EJLl)
 - [Mythical Man-Month, The (Frederick Brooks Jr.)](https://a.co/d/cPoWEPG)
 - [Refactoring: Improving the Design of Existing Code (Martin Fowler)](https://a.co/d/h0jc2Gg)
+
+## Pay attention
+
+- [Manage Software Testing (Peter Farrell-Vinay)](https://a.co/d/c85ie8O)
