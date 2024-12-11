@@ -13,6 +13,8 @@
 - [Code: The Hidden Language of Computer Hardware and Software (Charles Petzold)](https://a.co/d/cMIa109)
 
 ## Wishlist
+
+- [Code Complete: A Practical Handbook of Software Construction (Steve McConnell)](https://a.co/d/90E2Yii)
 - [Extreme Programming Explained (Kent Beck)](https://a.co/d/i494Vkv)
 - [Elegant objects vol. 2 (Yegor Bugaenko)](https://a.co/d/aKUiiBE)
 - [Growing Object-Oriented Software, Guided by Tests (Steve Freeman, Nat Pryce)](https://a.co/d/2jHUPbG)
