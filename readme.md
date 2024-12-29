@@ -2,11 +2,11 @@
 
 ## Reading at the moment
 
-- [Unit Testing Principles, Practices, and Patterns (Vladimir Khorikov)](https://a.co/d/aercuPI)
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster (David Farley)](https://a.co/d/7qoRo3f)
 
 ## Read
 
+- [Unit Testing Principles, Practices, and Patterns (Vladimir Khorikov)](https://a.co/d/aercuPI)
 - [Elegant objects vol. 1 (Yegor Bugaenko)](https://a.co/d/7odXJM4)
 - [Clean Code (Robert C. Martin)](https://a.co/d/7zu9QoB)
 - [Clean Architecture (Robert C. Martin)](https://a.co/d/hGwmKtw)
