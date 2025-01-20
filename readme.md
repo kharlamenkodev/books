@@ -2,7 +2,13 @@
 
 ## Reading at the moment
 
+- [Object Thinking (David West)](https://a.co/d/gnABE1L)
+- [Elegant objects vol. 2 (Yegor Bugaenko)](https://a.co/d/aKUiiBE)
+
+## Queue
+- [A Philosophy of Software Design, 2nd Edition (John Ousterhout)](https://a.co/d/5J3EJLl)
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster (David Farley)](https://a.co/d/7qoRo3f)
+- [Code Complete: A Practical Handbook of Software Construction (Steve McConnell)](https://a.co/d/90E2Yii)
 
 ## Read
 
@@ -14,14 +20,11 @@
 
 ## Wishlist
 
-- [Code Complete: A Practical Handbook of Software Construction (Steve McConnell)](https://a.co/d/90E2Yii)
 - [Extreme Programming Explained (Kent Beck)](https://a.co/d/i494Vkv)
-- [Elegant objects vol. 2 (Yegor Bugaenko)](https://a.co/d/aKUiiBE)
 - [Growing Object-Oriented Software, Guided by Tests (Steve Freeman, Nat Pryce)](https://a.co/d/2jHUPbG)
 - [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code (Dustin Boswell, Trevor Foucher)](https://a.co/d/buoeLCU)
 - [Understanding Distributed Systems, Second Edition (Roberto Vitillo)](https://a.co/d/jgrfOUo)
 - [Software Engineering at Google (Titus Winters, Tom Manshreck, Hyrum Wright)](https://a.co/d/6YP5Qon)
-- [A Philosophy of Software Design, 2nd Edition (John Ousterhout)](https://a.co/d/5J3EJLl)
 - [Mythical Man-Month, The (Frederick Brooks Jr.)](https://a.co/d/cPoWEPG)
 - [Refactoring: Improving the Design of Existing Code (Martin Fowler)](https://a.co/d/h0jc2Gg)
 
