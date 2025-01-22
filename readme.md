@@ -3,7 +3,6 @@
 ## Reading at the moment
 
 - [Object Thinking (David West)](https://a.co/d/gnABE1L)
-- [Elegant objects vol. 2 (Yegor Bugaenko)](https://a.co/d/aKUiiBE)
 
 ## Queue
 - [A Philosophy of Software Design, 2nd Edition (John Ousterhout)](https://a.co/d/5J3EJLl)
@@ -12,6 +11,7 @@
 
 ## Read
 
+- [Elegant objects vol. 2 (Yegor Bugaenko)](https://a.co/d/aKUiiBE)
 - [Unit Testing Principles, Practices, and Patterns (Vladimir Khorikov)](https://a.co/d/aercuPI)
 - [Elegant objects vol. 1 (Yegor Bugaenko)](https://a.co/d/7odXJM4)
 - [Clean Code (Robert C. Martin)](https://a.co/d/7zu9QoB)
