@@ -11,6 +11,7 @@
 
 ## Read
 
+- [Test Driven Development: By Example (Kent Beck)](https://a.co/d/eLR4wX9)
 - [Elegant objects vol. 2 (Yegor Bugaenko)](https://a.co/d/aKUiiBE)
 - [Unit Testing Principles, Practices, and Patterns (Vladimir Khorikov)](https://a.co/d/aercuPI)
 - [Elegant objects vol. 1 (Yegor Bugaenko)](https://a.co/d/7odXJM4)
