@@ -1,11 +1,11 @@
 # Books I have read, am reading, or am about to read
 
 ## Reading at the moment
+- [Code Complete: A Practical Handbook of Software Construction (Steve McConnell)](https://a.co/d/90E2Yii)
 
 ## Queue
 - [A Philosophy of Software Design, 2nd Edition (John Ousterhout)](https://a.co/d/5J3EJLl)
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster (David Farley)](https://a.co/d/7qoRo3f)
-- [Code Complete: A Practical Handbook of Software Construction (Steve McConnell)](https://a.co/d/90E2Yii)
 
 ## Read
 - [Mythical Man-Month, The (Frederick Brooks Jr.)](https://a.co/d/cPoWEPG)
@@ -29,5 +29,4 @@
 - [Refactoring: Improving the Design of Existing Code (Martin Fowler)](https://a.co/d/h0jc2Gg)
 
 ## Pay attention
-
 - [Manage Software Testing (Peter Farrell-Vinay)](https://a.co/d/c85ie8O)
