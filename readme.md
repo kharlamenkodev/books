@@ -2,15 +2,13 @@
 
 ## Reading at the moment
 
-- [Object Thinking (David West)](https://a.co/d/gnABE1L)
-
 ## Queue
 - [A Philosophy of Software Design, 2nd Edition (John Ousterhout)](https://a.co/d/5J3EJLl)
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster (David Farley)](https://a.co/d/7qoRo3f)
 - [Code Complete: A Practical Handbook of Software Construction (Steve McConnell)](https://a.co/d/90E2Yii)
 
 ## Read
-
+- [Object Thinking (David West)](https://a.co/d/gnABE1L)
 - [Angry Tests (Yegor Bugaenko)](https://a.co/d/20zMB6S)
 - [Test Driven Development: By Example (Kent Beck)](https://a.co/d/eLR4wX9)
 - [Elegant objects vol. 2 (Yegor Bugaenko)](https://a.co/d/aKUiiBE)
