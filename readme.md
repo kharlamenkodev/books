@@ -8,6 +8,7 @@
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster (David Farley)](https://a.co/d/7qoRo3f)
 
 ## Read
+- [Junior Objects (Yegor Bugayenko)](https://a.co/d/4iMuXqN)
 - [Mythical Man-Month, The (Frederick Brooks Jr.)](https://a.co/d/cPoWEPG)
 - [Object Thinking (David West)](https://a.co/d/gnABE1L)
 - [Angry Tests (Yegor Bugaenko)](https://a.co/d/20zMB6S)
